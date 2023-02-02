@@ -3,12 +3,14 @@
   width: 250px !important;
   height: 300px !important;
 }
-.sm_img{
-  border-radius: 75px;
-  width: 50px;
-  height: 50px;
-}
+
 body {
   background-image: url("background4.jpg");
   background-size: cover;
+}
+
+.sm_img{
+  border-radius: 75px;
+  width: 20px;
+  height: 20px;
 }
