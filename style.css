@@ -1,6 +1,7 @@
 .profile_img {
-  border-radius: 50%;
+  border-radius: 75px;
 }
 body {
-  background-image: url("background1.jpg");
+  background-image: url("background2.jpg");
+  background-size: cover;
 }
